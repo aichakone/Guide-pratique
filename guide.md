@@ -1,19 +1,21 @@
  Guide du projet
+Guide des bonnes pratiques pour travailler en équipe
 
 ## Introduction
-Ce document explique comment contribuer et collaborer sur ce projet.
+Ce guide fournit des conseils essentiels pour une collaboration efficace.
 
-## Étapes pour contribuer
-1. Clonez le dépôt.
-2. Créez une branche.
-3. Faites vos modifications.
-4. Envoyez une pull request.
+## Communication
+- Utilisez des outils comme Slack ou Microsoft Teams pour la communication instantanée.
+- Planifiez des réunions régulières pour synchroniser les équipes.
+- Pratiquez l'écoute active et évitez les malentendus.
 
-## Règles de contribution
-- Rédigez des messages de commit clairs.
-- Suivez le format du fichier Markdown.
-- Demandez une relecture avant de fusionner.
 
-## Ressources supplémentaires
-- [Documentation officielle de Git](https://git-scm.com/doc)
-- [Documentation officielle de GitHub](https://docs.github.com/)
+## Gestion des tâches
+(À compléter)
+
+## Résolution des conflits
+(À compléter)
+
+## Conclusion
+(À compléter)
+
